@@ -1,7 +1,6 @@
 <?php
 class File
 {
-
 	public $fp;
 	public $file;
 
