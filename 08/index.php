@@ -8,7 +8,7 @@
 </head>
 
 <body>
-	<h1>Урок 7. Наследование. Часть 2</h1>
+	<h1>Урок 8. Наследование. Часть 2</h1>
 	<?php
 	require_once 'classes/Product.php';
 	require_once 'classes/BookProduct.php';
